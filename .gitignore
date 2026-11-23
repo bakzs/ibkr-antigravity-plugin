@@ -1,0 +1,18 @@
+# Local OAuth tokens and plugin runtime data
+oauth_tokens.json
+plugin_data/
+*.token
+*.key
+
+# Environment & logs
+.env
+.env.*
+*.log
+
+# Dependencies & caches
+node_modules/
+.tmp/
+
+# OS metadata
+.DS_Store
+Thumbs.db

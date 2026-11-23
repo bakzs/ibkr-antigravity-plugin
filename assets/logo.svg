@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <!-- ~10% outer padding around white squircle tile so crisp crimson mark reads cleanly on light & dark surfaces -->
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="#FFFFFF" />
+  <rect x="12.75" y="12.75" width="102.5" height="102.5" rx="23.25" stroke="#CBD5E1" stroke-width="1.5" />
+  <!-- Original two-tone crimson geometric wedge + accent dot -->
+  <path d="M38 65L74 66L38 100V65Z" fill="#9F1239" />
+  <path d="M38 28L74 66L38 67V28Z" fill="#D81E2B" />
+  <circle cx="80" cy="48" r="10.5" fill="#E11D48" />
+</svg>

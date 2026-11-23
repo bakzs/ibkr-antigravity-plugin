@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ibkr-mcp": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/scripts/ibkr-mcp-proxy.mjs",
+        "--data-dir",
+        "${PLUGIN_DATA}"
+      ],
+      "timeoutSeconds": 180
+    }
+  }
+}

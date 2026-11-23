@@ -1,0 +1,18 @@
+{
+  "name": "ibkr",
+  "displayName": "Interactive Brokers (IBKR) Portfolio",
+  "version": "0.4.0",
+  "description": "Connect to Interactive Brokers' official remote MCP server with 1-click loopback browser OAuth sign-in, proxy-enforced read-only protection, multi-currency reconciliation, and portfolio exposure analysis.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "bakzs",
+    "url": "https://github.com/bakzs"
+  },
+  "homepage": "https://github.com/bakzs/ibkr-antigravity-plugin",
+  "repository": "https://github.com/bakzs/ibkr-antigravity-plugin",
+  "suggestedPrompts": [
+    "Connect IBKR and reconcile my live positions, cash by currency, and open orders",
+    "Break down my IBKR portfolio allocation, ETF look-through exposure, and unrealized P&L in my base currency",
+    "Check my current IBKR margin, buying power, and recent executions"
+  ]
+}
